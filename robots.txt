@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Disallow: /about/
+Disallow: /javascript/
+
+Sitemap: http://keepgoingwm.github.io/sitemap.xml
+Sitemap: http://keepgoingwm.github.io/baidusitemap.xml
